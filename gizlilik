@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Hat IPTV Player - Gizlilik Politikası</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.6;color:#111;background:#f7f7fb;padding:30px}
+    .container{max-width:900px;margin:0 auto;background:#fff;padding:28px;border-radius:12px;box-shadow:0 8px 30px rgba(20,20,50,0.06)}
+    h1{font-size:28px;margin-bottom:6px}
+    h2{font-size:18px;margin-top:22px}
+    p, li{font-size:15px}
+    code{background:#efefef;padding:2px 6px;border-radius:6px}
+    footer{margin-top:26px;font-size:13px;color:#555}
+    a.inline{color:#0b67ff;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hat IPTV Player — Gizlilik Politikası</h1>
+    <p><strong>Güncellendi:</strong> 28 Eylül 2025</p>
+
+    <p>Hat IPTV Player kullanıcıların gizliliğine önem verir. Bu politika, uygulama tarafından hangi bilgilerin toplandığını, nasıl kullanıldığını ve hangi durumlarda paylaşıldığını açıklar.</p>
+
+    <h2>1. Uygulamanın Kapsamı</h2>
+    <p>Hat IPTV Player yalnızca kullanıcıların sağladığı IPTV bağlantılarını (URL/oynatma listelerini) oynatmak için tasarlanmış bir oynatıcıdır. Uygulama herhangi bir içerik sağlamaz, depolamaz veya dağıtmaz. Kullanıcılar kendi hizmetlerini kullanmakla yükümlüdür. İçeriklerin telif hakları ve yasal sorumlulukları tamamen kullanıcıya aittir.</p>
+
+    <h2>2. Toplanan Veriler</h2>
+    <ul>
+      <li>Uygulama <strong>herhangi bir kişisel veri toplamaz</strong>. (örn. isim, e-posta, telefon numarası) </li>
+      <li>Kullanıcı tarafından girilen IPTV adresleri veya oynatma listeleri <strong>sunucuya gönderilmez</strong>; yalnızca kullanıcının kendi cihazı üzerinde oynatılır.</li>
+      <li>Uygulama arka planda veri toplamayan, reklam  içermeyen basit bir oynatıcıdır.</li>
+    </ul>
+
+    <h2>3. Veri Saklama ve Paylaşım</h2>
+    <p>Hat IPTV Player tarafından kişisel veri toplanmadığından, verilerin üçüncü taraflarla paylaşılması söz konusu değildir. Uygulama hiçbir kullanıcı verisini sunucularımızda saklamaz veya herhangi bir üçüncü taraf servise göndermez.</p>
+
+    <h2>4. Reklam ve Analiz</h2>
+    <p>Uygulama içinde <strong>reklam yoktur</strong> ve kullanıcı davranışlarını izleyen analiz servisleri (Firebase Analytics, Google Analytics, Sentry vb.) kullanılmamaktadır.</p>
+
+    <h2>5. Güvenlik</h2>
+    <p>Kullanıcı verisi toplanmıyor olsa da, cihazınızdaki oynatma listelerinin ve ağ bağlantılarının güvenliğini sağlamak için cihaz ayarlarınızı güncel tutmanız ve güvenilir ağlar kullanmanız önerian akışların içeriği veya bağlantılarlir. Uygulama, kullanıcı tarafında oynatılır denetlenmez bu nedenle içerik erişimi ve telif hakları ile ilgili sorumluluk kullanıcıya aittir.</p>
+
+    <h2>6. Çocukların Gizliliği</h2>
+    <p>Uygulama 13 yaş altı kullanıcılardan bilerek kişisel veri toplamadığı için çocuklara yönelik özel veri işleme yapılmamaktadır. Yine de ebeveynlerin, çocukların çevrimiçi içeriklere erişiminde dikkatli olmaları önerilir.</p>
+
+    <h2>7. Kullanıcı Hakları ve İletişim</h2>
+    <p>Eğer bu politika hakkında bir sorunuz veya gizlilikle ilgili bir talebiniz varsa bizimle iletişime geçin:</p>
+    <p><strong>E-posta:</strong> <a href="mailto:hanaydeveloper@proton.me" class="inline">hanaydeveloper@proton.me</a></p>
+
+    <h2>8. Değişiklikler</h2>
+    <p>Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişikliklerde politika üzerinde bulunan "Güncellendi" tarihini değiştireceğiz. Kullanıcıların periyodik olarak bu sayfayı kontrol etmeleri önerilir.</p>
+
+    <footer>
+      <p>Hat IPTV Player Basit, reklam içermeyen bir IPTV oynatıcıdır.</p>
+    </footer>
+  </div>
+</body>
+</html>
